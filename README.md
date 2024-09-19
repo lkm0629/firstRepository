@@ -15,7 +15,7 @@
 7. 초기화
    * git init
 8. 원격저장소 설정
-  * git remote add first_remote_repo https://github.com/.../firstRepository.git
+   * git remote add first_remote_repo https://github.com/.../firstRepository.git
 9. workspace 폴더 내 README.md 파일 생성 및 내용 작성
 10. 상태 확인
    * git status
